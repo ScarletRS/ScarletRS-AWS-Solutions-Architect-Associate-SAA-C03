@@ -1,1 +1,1 @@
-# ScarletRS-AWS-Solutions-Architect-Associate-SAA-C03
+# AWS solution
